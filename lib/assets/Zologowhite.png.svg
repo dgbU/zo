@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="Zologowhite.png.svg"
+   inkscape:export-filename="/Users/medinafamily/Development/Zo/Zowhite2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3416246"
+     inkscape:cx="207.95683"
+     inkscape:cy="585.4842"
+     inkscape:window-width="2135"
+     inkscape:window-height="1119"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.263717;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:6.32922, 0.263717;stroke-dashoffset:2.63717"
+       id="path877"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="362.24738"
+       sodipodi:cy="690.20801"
+       sodipodi:r1="107.33256"
+       sodipodi:r2="53.666279"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 362.24738,797.54057 -92.95273,-160.99884 185.90545,0 z"
+       transform="matrix(0.26399597,-0.01761998,0.01761998,0.26399597,6.8748287,19.804121)"
+       inkscape:transform-center-x="0.94560429"
+       inkscape:transform-center-y="6.2649238" />
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:0.796854;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect853"
+       width="125.42629"
+       height="70.601593"
+       x="42.286854"
+       y="113.1992" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="twxt">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.2169px;line-height:1.25;font-family:'American Typewriter';-inkscape-font-specification:'American Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.13043"
+       x="58.887665"
+       y="170.89386"
+       id="text1452"
+       transform="scale(0.96745212,1.0336429)"><tspan
+         sodipodi:role="line"
+         id="tspan1450"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.2169px;font-family:'American Typewriter';-inkscape-font-specification:'American Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:2.13043"
+         x="58.887665"
+         y="170.89386">Zo</tspan></text>
+  </g>
+</svg>
